@@ -1,6 +1,5 @@
 <h1>Hi!</h1>
 <h1>My name is "Gvins"</h1>
-<hr>
 <table>
   <tr>
     <th>Framework</th>
