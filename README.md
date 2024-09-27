@@ -1,3 +1,13 @@
+<style>
+  td {
+    color: white;
+    transition: color 0.3s 
+  }
+  td:hover {
+    color: #C4C4C4;
+  }
+</style>
+
 <h1>Hi!</h1>
 <h1>My name is "Gvins"</h1>
 <table>
