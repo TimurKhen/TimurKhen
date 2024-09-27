@@ -33,7 +33,7 @@
     <li>TS</li>
     <li>SASS</li>
   </ul></p>
-  <a href='https://github.com/Gvinses/kpTubeFront'>Link</a>
+  <a target="_blank" href='https://github.com/Gvinses/kpTubeFront'>Link</a>
 </details>
 
 <details>
@@ -45,7 +45,7 @@
     <li>JS</li>
     <li>SASS</li>
   </ul></p>
-  <a href='https://github.com/Gvinses/KP229-telegram-app'>Link</a>
+  <a target="_blank" href='https://github.com/Gvinses/KP229-telegram-app'>Link</a>
 </details>
 
 <details>
@@ -54,12 +54,12 @@
   <p>Using: <ul>
     <li>JS</li>
   </ul></p>
-  <a href='https://github.com/Gvinses/Better-Array-Methods'>Link</a>
+  <a target="_blank" href='https://github.com/Gvinses/Better-Array-Methods'>Link</a>
 </details>
 
 <details>
   <summary>LiseyPresident</summary>
-  <p>Project with <a href='https://github.com/ZakSlinin'>ZakSlinin</a> where you can vote for Lisey (school) president</p>
+  <p>Project with <a target="_blank" href='https://github.com/ZakSlinin'>ZakSlinin</a> where you can vote for Lisey (school) president</p>
   <p>Using: <ul>
     <li>HTML</li>
     <li>CSS</li>
@@ -68,5 +68,5 @@
     <li>TS</li>
     <li>SASS</li>
   </ul></p>
-  <a href='https://github.com/ZakSlinin/LiseyPresident'>Link</a>
+  <a target="_blank" href='https://github.com/ZakSlinin/LiseyPresident'>Link</a>
 </details>
