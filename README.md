@@ -1,7 +1,7 @@
 <h1>Hi!</h1>
 <h1>My name is "Gvins"</h1>
 <table>
-  <h1>What I know: </h1>
+  <p>What I know: </p>
   <tr>
     <th>Framework</th>
     <th>Web</th>
