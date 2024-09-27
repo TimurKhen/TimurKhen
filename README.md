@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1>Hi!</h1>
+<h1>My name is "Gvins"</h1>
+<hr>
+<table>
+  <tr>
+    <th>Framework</th>
+    <th>Web</th>
+    <th>Programming Language</th>
+  </tr>
+  <tr>
+    <td>Angular</td>
+    <td>HTML</td>
+    <td>JS</td>
+  </tr>
+  <tr>
+    <td>  </td>
+    <td>CSS</td>
+    <td>TS</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>SCSS/SASS</td>
+    <td></td>
+  </tr>  
+</table>  
 
-<!--
-**Gvinses/Gvinses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>KPtube</summary>
+  <p>Copy of YouTube on Angular 18</p>
+  <p>Using: <ul>
+    <li>Angular</li>
+    <li>HTTPclient</li>
+    <li>TS</li>
+    <li>SASS</li>
+  </ul></p>
+  <a href='https://github.com/Gvinses/kpTubeFront'>Link</a>
+</details>
 
-Here are some ideas to get you started:
+<details>
+  <summary>KP229-telegram-app</summary>
+  <p>Basic Clicker Telegram mini app game</p>
+  <p>Using: <ul>
+    <li>HTML</li>
+    <li>Fetch</li>
+    <li>JS</li>
+    <li>SASS</li>
+  </ul></p>
+  <a href='https://github.com/Gvinses/KP229-telegram-app'>Link</a>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>Better-Array-Methods</summary>
+  <p>Better-Array-Methods (BAM) is a JS library for easier work with JS Arrays</p>
+  <p>Using: <ul>
+    <li>JS</li>
+  </ul></p>
+  <a href='https://github.com/Gvinses/Better-Array-Methods'>Link</a>
+</details>
+
+<details>
+  <summary>LiseyPresident</summary>
+  <p>Project with <a href='https://github.com/ZakSlinin'>ZakSlinin</a> where you can vote for Lisey (school) president</p>
+  <p>Using: <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JS</li>
+    <p> + </p>
+    <li>TS</li>
+    <li>SASS</li>
+  </ul></p>
+  <a href='https://github.com/ZakSlinin/LiseyPresident'>Link</a>
+</details>
