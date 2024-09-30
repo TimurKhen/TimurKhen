@@ -24,7 +24,8 @@
       <td></td>
     </tr>  
   </table>  
-  
+  </div>
+  <div class="projects">
   <details>
     <summary>KPtube</summary>
     <p>Copy of YouTube on Angular 18</p>
@@ -71,4 +72,4 @@
     </ul></p>
     <a target="_blank" href='https://github.com/ZakSlinin/LiseyPresident'>Link</a>
   </details>
-</div>
+  </div>
