@@ -25,9 +25,6 @@
     </tr>  
   </table>  
   </div>
-  <div class="activity">
-    <img src='https://github-readme-activity-graph.vercel.app/graph?username=gvinses&theme=github-dark&hide_border=true&hide_title=true'>
-  </div>
   <div class="projects">
   <details>
     <summary>KPtube</summary>
