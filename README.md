@@ -16,13 +16,15 @@
       <td>RXJS</td>
     </tr>
     <tr>
-      <td>  </td>
+      <td></td>
       <td>CSS</td>
       <td>TS</td>
+      <td></td>
     </tr>
     <tr>
       <td></td>
       <td>SCSS/SASS</td>
+      <td></td>
       <td></td>
     </tr>  
   </table>  
