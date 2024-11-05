@@ -7,11 +7,13 @@
       <th>Framework</th>
       <th>Web</th>
       <th>Programming Language</th>
+      <th>Library</th>
     </tr>
     <tr>
       <td>Angular</td>
       <td>HTML</td>
       <td>JS</td>
+      <td>RXJS</td>
     </tr>
     <tr>
       <td>  </td>
