@@ -60,7 +60,7 @@
     <p>Using: <ul>
       <li>JS</li>
     </ul></p>
-    <a target="_blank" href='https://github.com/Gvinses/Better-Array-Methods'>Link</a>
+    <a target="_blank" href='https://github.com/Gvinses/another_arrays'>Link</a>
     <a target="_blank" href='https://www.npmjs.com/package/another_arrays?activeTab=readme'>NPM Link</a>
   </details>
   
@@ -75,6 +75,6 @@
       <li>TS</li>
       <li>SASS</li>
     </ul></p>
-    <a target="_blank" href='https://github.com/Gvinses/another_arrays'>Link</a>
+    <a target="_blank" href='https://github.com/ZakSlinin/LiseyPresident'>Link</a>
   </details>
   </div>
