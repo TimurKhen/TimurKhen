@@ -55,12 +55,13 @@
   </details>
   
   <details>
-    <summary>Better-Array-Methods</summary>
-    <p>Better-Array-Methods (BAM) is a JS library for easier work with JS Arrays</p>
+    <summary>another_arrays</summary>
+    <p>another_arrays (BAM) is a JS is library for better already created Methdos for JavaScripts Arrays and it adds staticly typed arrays</p>
     <p>Using: <ul>
       <li>JS</li>
     </ul></p>
     <a target="_blank" href='https://github.com/Gvinses/Better-Array-Methods'>Link</a>
+    <a target="_blank" href='https://www.npmjs.com/package/another_arrays?activeTab=readme'>NPM Link</a>
   </details>
   
   <details>
@@ -74,6 +75,6 @@
       <li>TS</li>
       <li>SASS</li>
     </ul></p>
-    <a target="_blank" href='https://github.com/ZakSlinin/LiseyPresident'>Link</a>
+    <a target="_blank" href='https://github.com/Gvinses/another_arrays'>Link</a>
   </details>
   </div>
