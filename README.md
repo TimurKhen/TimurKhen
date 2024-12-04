@@ -77,4 +77,14 @@
     </ul></p>
     <a target="_blank" href='https://github.com/ZakSlinin/LiseyPresident'>Link</a>
   </details>
+  
+  <details>
+    <summary>Nine Circles Style</summary>
+    <p>CSS Esoteric  extension language.</p>
+    <p>Using: <ul>
+      <li>JS</li>
+    </ul></p>
+    <a target="_blank" href='https://github.com/Gvinses/Nine-Circles-Style'>Link</a>
+    <a target="_blank" href='https://www.npmjs.com/package/nine-circles?activeTab=readme'>NPM Link</a>
+  </details>
   </div>
