@@ -17,7 +17,7 @@
       <td></td>
       <td>CSS</td>
       <td>TS</td>
-      <td></td>
+      <td>NGRX</td>
     </tr>
     <tr>
       <td></td>
