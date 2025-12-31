@@ -1,88 +1,74 @@
-<div align="center">
-  <table>
-    <h1>What I know</h1>
-    <tr>
-      <th>Framework</th>
-      <th>Web</th>
-      <th>Programming Language</th>
-      <th>Library</th>
+<h1>👋 Hello, my name is: Timur Khen</h1>
+<p><i>Now is 1 day of 2026 every day commit challenge</i></p>
+<div>
+  <h2>Technologies:</h2>
+  <br>
+  <table align="center">
+    <tr>  
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="Three.js" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="Three.js" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=angular" width="50" height="50" />
+        <br>Angular
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="50" height="50" />
+        <br>CSS
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=sass" width="50" height="50" />
+        <br>SASS
+      </td>
+      <td align="center" width="100">
+        <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" width="50" height="50" />
+        <br>RXJS
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" />
+        <br>React
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=webstorm" width="50" height="50" alt="Three.js" />
+        <br>WebStorm
+      </td>
     </tr>
-    <tr>
-      <td>Angular</td>
-      <td>HTML</td>
-      <td>JS</td>
-      <td>RXJS</td>
+    <tr>      
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Three.js" />
+        <br>Python
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=pycharm" width="50" height="50" alt="Three.js" />
+        <br>Pycharm
+      </td>
     </tr>
-    <tr>
-      <td></td>
-      <td>CSS</td>
-      <td>TS</td>
-      <td>NGRX</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>SCSS/SASS</td>
-      <td></td>
-      <td></td>
-    </tr>  
-  </table>  
-  </div>
-  <div class="projects">
-  <details>
-    <summary>KPtube</summary>
-    <p>Copy of YouTube on Angular 18</p>
-    <p>Using: <ul>
-      <li>Angular</li>
-      <li>HTTPclient</li>
-      <li>TS</li>
-      <li>SASS</li>
-    </ul></p>
-    <a target="_blank" href='https://github.com/Gvinses/kpTubeFront'>Link</a>
-  </details>
-  
-  <details>
-    <summary>KP229-telegram-app</summary>
-    <p>Basic Clicker Telegram mini app game</p>
-    <p>Using: <ul>
-      <li>HTML</li>
-      <li>Fetch</li>
-      <li>JS</li>
-      <li>SASS</li>
-    </ul></p>
-    <a target="_blank" href='https://github.com/Gvinses/KP229-telegram-app'>Link</a>
-  </details>
-  
-  <details>
-    <summary>another_arrays</summary>
-    <p>another_arrays (BAM) is a JS is library for better already created Methdos for JavaScripts Arrays and it adds staticly typed arrays</p>
-    <p>Using: <ul>
-      <li>JS</li>
-    </ul></p>
-    <a target="_blank" href='https://github.com/Gvinses/another_arrays'>Link</a>
-    <a target="_blank" href='https://www.npmjs.com/package/another_arrays?activeTab=readme'>NPM Link</a>
-  </details>
-  
-  <details>
-    <summary>LiseyPresident</summary>
-    <p>Project with <a target="_blank" href='https://github.com/ZakSlinin'>ZakSlinin</a> where you can vote for Lisey (school) president</p>
-    <p>Using: <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>JS</li>
-      <p> + </p>
-      <li>TS</li>
-      <li>SASS</li>
-    </ul></p>
-    <a target="_blank" href='https://github.com/ZakSlinin/LiseyPresident'>Link</a>
-  </details>
-  
-  <details>
-    <summary>Nine Circles Style</summary>
-    <p>CSS Esoteric  extension language.</p>
-    <p>Using: <ul>
-      <li>JS</li>
-    </ul></p>
-    <a target="_blank" href='https://github.com/Gvinses/Nine-Circles-Style'>Link</a>
-    <a target="_blank" href='https://www.npmjs.com/package/nine-circles?activeTab=readme'>NPM Link</a>
-  </details>
-  </div>
+  </table>
+</div>
+
+<table>
+  <h2>Contacts:</h2>
+  <a href="https://t.me/TimurKhen" align-text='center'>
+    <td align='center'>
+      <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png' width=25 height=25>
+      <br>Telegram    
+    </td>
+  </a>
+  <a href="https://leetcode.com/u/timurkhen10" align-text='center'>
+    <td align='center'>
+      <img src='https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png' width=25 height=25>
+      <br>Leetcode    
+    </td>
+  </a>
+  <a href="https://www.npmjs.com/~gvins" align-text='center'>
+    <td align='center'>
+      <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png' width=25 height=25>
+      <br>NPM
+    </td>
+  </a>
+</table>
