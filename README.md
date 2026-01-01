@@ -17,6 +17,8 @@
         <img src="https://skillicons.dev/icons?i=angular" width="50" height="50" />
         <br>Angular
       </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=css" width="50" height="50" />
         <br>CSS
