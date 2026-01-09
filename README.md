@@ -69,7 +69,7 @@
     </td>
     <td align='center'>
   <a href="https://www.npmjs.com/~gvins" align-text='center'>
-      <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png' width=25 height=25>
+      <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1024px-Npm-logo.svg.png' width=25 height=25>
       <br>NPM
   </a>
     </td>
