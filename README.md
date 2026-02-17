@@ -1,5 +1,5 @@
 <h1>👋 Hello, my name is: Timur Khen</h1>
-<p><i>Now is 2026 every day commit challenge</i></p>
+
 <div>
   <h2>Technologies:</h2>
   <br>
