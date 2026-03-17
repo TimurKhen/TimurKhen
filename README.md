@@ -20,10 +20,6 @@
     </tr>
     <tr>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="50" height="50" />
-        <br>CSS
-      </td>
-      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=sass" width="50" height="50" />
         <br>SASS
       </td>
