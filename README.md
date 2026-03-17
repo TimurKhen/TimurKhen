@@ -32,10 +32,6 @@
         <br>RXJS
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=react" width="50" height="50" />
-        <br>React
-      </td>
-      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=webstorm" width="50" height="50" alt="Three.js" />
         <br>WebStorm
       </td>
