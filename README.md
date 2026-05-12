@@ -49,7 +49,7 @@
   <h2>Contacts:</h2>
     <td align='center'>
   <a href="https://t.me/TimurKhen" align-text='center'>
-      <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png' width=25 height=25>
+      <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/960px-Telegram_logo.svg.png?utm_source=ru.wikivoyage.org&utm_campaign=index&utm_content=thumbnail' width=25 height=25>
       <br>Telegram    
   </a>
     </td>
