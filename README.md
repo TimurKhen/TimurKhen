@@ -46,14 +46,8 @@
 </div>
 
 <table>
-  <h2>Contacts:</h2>
-    <td align='center'>
-  <a href="https://t.me/TimurKhen" align-text='center'>
-      <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/960px-Telegram_logo.svg.png?utm_source=ru.wikivoyage.org&utm_campaign=index&utm_content=thumbnail' width=25 height=25>
-      <br>Telegram    
-  </a>
-    </td>
-    <td align='center'>
+  <h2>Links:</h2>
+
   <a href="https://leetcode.com/u/timurkhen10" align-text='center'>
       <img src='https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png' width=25 height=25>
       <br>Leetcode    
