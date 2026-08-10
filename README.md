@@ -37,16 +37,6 @@
 * 💻 Specializing in dynamic user interfaces built with **Angular** and **TypeScript**.
 * 📱 Developing interactive **Telegram Mini Apps** and custom bots.
 * 🏆 Active participant in competitive programming and tech hackathons.
-* 🤖 Leveraging cutting-edge **AI tooling** (Claude) to accelerate development workflows.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TimurKhen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 
 ---
 
