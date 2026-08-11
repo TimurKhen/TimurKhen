@@ -32,6 +32,14 @@
 
 ---
 
+### 📈 Stats
+
+<p align="center">
+  <a href="https://github.com/TimurKhen?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=TimurKhen&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="500px" alt="@yntymakdev's github-readme-stats"/></a>
+</p>
+
+---
+
 ### 🚀 About Me
 
 * 💻 Specializing in dynamic user interfaces built with **Angular** and **TypeScript**.
